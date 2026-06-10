@@ -1,0 +1,22 @@
+{
+  "title": "SilverHawk benchmark replication package",
+  "description": "Replication package for the SilverHawk ADO benchmark (Ambrosini, submitted to Automation in Construction): per-run benchmark data, the Ambrosini GBR+ANN v2 building-performance surrogate, per-figure source data, and surrogate-training scripts.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Ambrosini, Luciano",
+      "orcid": "0000-0003-1529-2694",
+      "affiliation": "LA Architecture & Computational Design Consulting, Naples, Italy"
+    }
+  ],
+  "keywords": [
+    "Architectural design optimization",
+    "Metaheuristic algorithms",
+    "Grasshopper",
+    "No Free Lunch theorem",
+    "Multi-objective optimization",
+    "Building performance simulation"
+  ]
+}
