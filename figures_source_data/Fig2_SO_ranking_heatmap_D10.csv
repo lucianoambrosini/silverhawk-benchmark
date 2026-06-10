@@ -1,0 +1,10 @@
+algorithm,Sphere,Rosenbrock,Rastrigin,Ackley,Griewank,Schwefel,Schwefel_12,Step
+MERLIN,1,3,1,1,1,9,1,2
+CMA-ES,2,2,9,2,3,6,2,1
+L-SHADE-RSP,4,5,6,3,4,5,4,3
+RAPTOR,3,7,3,6,2,7,3,4
+L-SHADE-SW,5,4,4,5,5,4,5,5
+HHO,8,1,2,4,7,1,8,8
+L-SHADE,6,6,8,7,6,8,6,6
+jEDE,7,8,5,8,8,2,9,7
+PFO,9,9,7,9,9,3,7,9

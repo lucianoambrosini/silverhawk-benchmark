@@ -1,0 +1,16 @@
+solver,family,avg_rank,p100_10k,p40_10k,p100_5k,p20_5k,p40_5k
+TALON,SilverHawk,1.8,2,3,1,2,1
+GDE3,SilverHawk,2.2,1,2,4,1,3
+EAGLE,SilverHawk,3.8,3,5,3,3,5
+OSPREY,SilverHawk,4.2,8,1,2,8,2
+STRIKE-MO-AS,SilverHawk,5.2,4,4,5,7,6
+NSGA-II,SilverHawk,6.2,7,6,10,4,4
+MOPSO,SilverHawk,6.8,6,9,6,5,8
+NSGA_II,Opossum,8.0,5,10,8,10,7
+WallaceiX,WallaceiX,8.8,10,7,7,11,9
+RBFMOpt,Opossum,10.2,11,12,9,9,10
+NSGA-III,SilverHawk,10.4,9,8,12,12,11
+MOEA_D,SilverHawk,11.8,14,11,14,6,14
+MOEAD,Opossum,12.6,12,15,11,13,12
+MACO,Opossum,13.2,13,13,13,14,13
+NSPSO,Opossum,14.8,15,14,15,15,15

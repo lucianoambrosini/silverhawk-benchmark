@@ -1,0 +1,13 @@
+algorithm,rank_FE_fair_1200FE,rank_time_fair_230s
+Opossum-RBFOpt,1,7
+PSO,2,10
+MERLIN,3,6
+jEDE,4,3
+RAPTOR,5,11
+PFO,6,8
+CMA-ES,7,5
+L-SHADE,8,1
+L-SHADE-RSP,9,4
+STRIKE-AS,10,9
+L-SHADE-SW,11,2
+HHO,12,12
