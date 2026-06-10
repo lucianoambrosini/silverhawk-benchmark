@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/04/SilverHawk_Banner_dev.jpg" width="30%" height="30%">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/04/SilverHawk_Banner_dev.jpg" width="70%" height="70%">
 </div>
 
 # SilverHawk Benchmark — Replication Package
