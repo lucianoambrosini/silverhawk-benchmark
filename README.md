@@ -112,9 +112,9 @@ Ambrosini, L. (2026). SilverHawk: Metaheuristic Optimization for Architectural
 Design Under Severe Computational Budget Constraints. Automation in Construction,
 [volume]:[pages], doi:[TBD].
 
-Ambrosini, L. (2026). SilverHawk Benchmark Replication Package (v1.0)
-[Data set]. [REPOSITORY URL — to be filled at journal acceptance].
-doi:[TBD].
+Ambrosini, L. (2026). SilverHawk Benchmark Replication Package
+[Data set]. Zenodo. https://github.com/lucianoambrosini/silverhawk-benchmark
+doi:10.5281/zenodo.20630810 (concept DOI — always resolves to the latest version)
 ```
 
 ---
