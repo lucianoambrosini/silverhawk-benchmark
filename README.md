@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/04/SilverHawk_Banner_dev.jpg" width="30%" height="30%">
+</div>
+
 # SilverHawk Benchmark — Replication Package
 
 **Companion to:** *"SilverHawk: Metaheuristic Optimization for Architectural Design Under Severe Computational Budget Constraints"* (Ambrosini, submitted to *Automation in Construction*, 2026).
