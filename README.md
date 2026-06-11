@@ -20,12 +20,12 @@
 
 ## Purpose
 
-This replication package enables independent reproduction of the entire benchmark campaign reported in the paper (~29,000 independent optimization runs, ~140 million function evaluations across 25 problems and six dimensionalities D ∈ {10, 15, 20, 22, 30, 85}).
+This replication package enables independent reproduction of the entire benchmark campaign reported in the paper (~28,685 independent optimization runs, ~140 million function evaluations across 25 problems and six dimensionalities D ∈ {10, 15, 20, 22, 30, 85}).
 
 Reviewers and readers can use it to:
 
 1. **Verify** the numerical claims of the paper (rankings, hypervolume values, convergence profiles, NFL evidence) against the per-run raw outputs.
-2. **Reproduce** any individual layer of the five-layer benchmark protocol on their own hardware (estimated wall-clock: 5 hours for MO ADO benchmark, ~270 hours for the full campaign on i9-13900K class hardware).
+2. **Reproduce** any individual layer of the five-layer benchmark protocol on their own hardware (estimated wall-clock: 5 hours for MO ADO benchmark, ~270 CPU-hours for the full campaign on i7-4770K class hardware (Haswell 2013); estimated ~80–100 CPU-hours on contemporary CPUs (Intel 13th/14th gen or AMD Zen 4/5).
 3. **Extend** the benchmark with new algorithms or new problem instances using the published Falconry-to-canvas backport protocol and the SH_BenchmarkADO Grasshopper component.
 
 
@@ -86,7 +86,7 @@ replication_package/
 │   ├── README.md                        (data dictionary)
 │   ├── falconry_so_synthetic_baseline/  (Layer 1, 4,800 runs)
 │   ├── falconry_so_pop_fe_sweep/        (Layer 1', 19,200 runs, 17,600 unique)
-│   ├── tsp/                             (Layer 2, ~490 runs)
+│   ├── tsp/                             (Layer 2, ~459 runs)
 │   ├── gh_native_synthetic/             (Layer 3, ~1,200 runs canvas)
 │   ├── ado_so_falconry/                 (Layer 4a, 990 runs)
 │   ├── mo_zorn_ado_canvas/              (Layer 4b, ~1,100 runs incl. Campaign A/B/sweep/XC)
