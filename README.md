@@ -3,6 +3,7 @@
 </div>
 
 # SilverHawk Benchmark — Replication Package
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20630810-1682D4)](https://doi.org/10.5281/zenodo.20630810)
 [![Paper](https://img.shields.io/badge/paper-Automation%20in%20Construction%20(submitted)-informational)](https://www.sciencedirect.com/journal/automation-in-construction)
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -26,6 +27,26 @@ Reviewers and readers can use it to:
 1. **Verify** the numerical claims of the paper (rankings, hypervolume values, convergence profiles, NFL evidence) against the per-run raw outputs.
 2. **Reproduce** any individual layer of the five-layer benchmark protocol on their own hardware (estimated wall-clock: 5 hours for MO ADO benchmark, ~270 hours for the full campaign on i9-13900K class hardware).
 3. **Extend** the benchmark with new algorithms or new problem instances using the published Falconry-to-canvas backport protocol and the SH_BenchmarkADO Grasshopper component.
+
+
+---
+
+## Hardware envelope
+
+All benchmark campaigns reported in the paper were executed on a single workstation:
+
+| Component | Specification                                                                                             |
+| --------- | --------------------------------------------------------------------------------------------------------- |
+| CPU       | Intel Core i7-4770K (Haswell, 4 cores / 8 threads, 3.5 GHz base / 3.9 GHz turbo, 22 nm, released Q2 2013) |
+| RAM       | 32 GB DDR3                                                                                                |
+| Storage   | Kingston SSD (447 GB) primary + Toshiba HDD (932 GB) secondary                                            |
+| GPU       | NVIDIA GeForce GTX 1650 (4 GB) — not used by the benchmarks (CPU-bound)                                   |
+| OS        | Windows 64-bit                                                                                            |
+| Software  | Rhinoceros 8 SR15, Grasshopper, Karamba3D 3.2, SilverHawk plugin (versions per layer)                     |
+
+This is a **2013-vintage CPU**, two generations older than the Skylake/Kaby Lake workstations typical of the most-cited prior ADO benchmarks (Cichocka et al. 2017; Wortmann 2017). A timing pilot on a contemporary ASUS ROG Flow 2025 laptop indicated a 60–70% wall-clock reduction on representative SilverHawk loads, suggesting that the wall-clock numbers in the paper conservatively understate performance on current hardware.
+
+Wall-clock measurements in the paper are valid only within this hardware envelope. Replication on different hardware will reproduce identical *numerical results* (algorithm rankings, hypervolume values, fitness statistics) under the documented seed schedule (`seed = 5000 + r × 137`), but wall-clock absolute timings will differ.
 
 ---
 
