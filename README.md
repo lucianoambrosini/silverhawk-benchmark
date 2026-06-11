@@ -3,6 +3,11 @@
 </div>
 
 # SilverHawk Benchmark — Replication Package
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20630810.svg)](https://doi.org/10.5281/zenodo.20630810)
+[![Paper](https://img.shields.io/badge/paper-Automation%20in%20Construction%20(submitted)-informational)](https://www.sciencedirect.com/journal/automation-in-construction)
+[![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code license: MIT](https://img.shields.io/badge/code-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/release/lucianoambrosini/silverhawk-benchmark?include_prereleases&label=release)](https://github.com/lucianoambrosini/silverhawk-benchmark/releases)
 
 **Companion to:** *"SilverHawk: Metaheuristic Optimization for Architectural Design Under Severe Computational Budget Constraints"* (Ambrosini, submitted to *Automation in Construction*, 2026).
 
