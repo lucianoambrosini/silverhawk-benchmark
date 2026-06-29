@@ -14,7 +14,7 @@
 
 **Maintainer:** Luciano Ambrosini (LA Architecture & Computational Design Consulting, Naples, Italy) — luciano.ambrosini@outlook.com · ORCID 0000-0003-1529-2694
 
-**Version:** 1.0-rc (populated for AiC submission). The package will be tagged **v1.0** at journal acceptance and **v1.1** at SilverHawk public release on food4Rhino.
+**Version:** 1.0-rc (populated for eval submission). The package will be tagged **v1.0** at journal acceptance and **v1.1** at SilverHawk public release on food4Rhino.
 
 ---
 
