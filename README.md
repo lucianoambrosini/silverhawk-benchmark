@@ -5,12 +5,12 @@
 # SilverHawk Benchmark — Replication Package
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20630810-1682D4)](https://doi.org/10.5281/zenodo.20630810)
-[![Paper](https://img.shields.io/badge/paper-under_eval_(submitted)-informational)](https://www.sciencedirect.com/journal/automation-in-construction)
+[![Paper](https://img.shields.io/badge/paper-under_eval_(submitted)-informational)]()
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/v/release/lucianoambrosini/silverhawk-benchmark?include_prereleases&label=release)](https://github.com/lucianoambrosini/silverhawk-benchmark/releases)
 
-**Companion to:** *"SilverHawk: Metaheuristic Optimization for Architectural Design Under Severe Computational Budget Constraints"* (Ambrosini, submitted to *Automation in Construction*, 2026).
+**Companion to:** *"SilverHawk: Metaheuristic Optimization for Architectural Design Under Severe Computational Budget Constraints"* (Ambrosini, submitted to *eval*, 2026).
 
 **Maintainer:** Luciano Ambrosini (LA Architecture & Computational Design Consulting, Naples, Italy) — luciano.ambrosini@outlook.com · ORCID 0000-0003-1529-2694
 
@@ -54,7 +54,7 @@ Wall-clock measurements in the paper are valid only within this hardware envelop
 
 This package is released in two phases to align with the publication timeline of the SilverHawk plugin itself.
 
-### Phase 1 — AiC peer-review (v0.1 → v1.0 at acceptance)
+### Phase 1 — peer-review (v0.1 → v1.0 at acceptance)
 
 Available immediately for reviewers and at journal acceptance:
 
@@ -65,7 +65,7 @@ Available immediately for reviewers and at journal acceptance:
 
 ### Phase 2 — Post-publication, SilverHawk food4Rhino release (v1.1)
 
-Added after the AiC paper appears online and the SilverHawk plugin is published on food4Rhino:
+Added after the paper appears online and the SilverHawk plugin is published on food4Rhino:
 
 - **Falconry C# console source** — standalone benchmark console (`falconry/`).
 - **SH_BenchmarkADO Grasshopper component** — the GBR + ANN v2 inferencer embedded as a GH black-box (`grasshopper_assets/SH_BenchmarkADO.gh`).
