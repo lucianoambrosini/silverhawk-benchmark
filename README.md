@@ -5,7 +5,7 @@
 # SilverHawk Benchmark — Replication Package
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20630810-1682D4)](https://doi.org/10.5281/zenodo.20630810)
-[![Paper](https://img.shields.io/badge/paper-Automation%20in%20Construction%20(submitted)-informational)](https://www.sciencedirect.com/journal/automation-in-construction)
+[![Paper](https://img.shields.io/badge/paper-under_eval_(submitted)-informational)](https://www.sciencedirect.com/journal/automation-in-construction)
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/v/release/lucianoambrosini/silverhawk-benchmark?include_prereleases&label=release)](https://github.com/lucianoambrosini/silverhawk-benchmark/releases)
