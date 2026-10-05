@@ -5,6 +5,11 @@
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<div align="center">
+<img src="https://ambrosinus.altervista.org/blog/wp-content/uploads/2026/04/SilverHawk_Banner_dev.jpg" width="70%" height="70%">
+</div>
+<br>
+
 Index of the open material that accompanies the publications on **SilverHawk**, a metaheuristic optimization plug-in for Grasshopper / Rhinoceros 8 aimed at architectural design under severe computational budget constraints. Each publication has its own page and its own archived package with a persistent identifier; this repository does not duplicate the data.
 
 **Maintainer:** Luciano Ambrosini (LA Architecture & Computational Design Consulting, Naples, Italy) — luciano.ambrosini@outlook.com · ORCID [0000-0003-1529-2694](https://orcid.org/0000-0003-1529-2694)
